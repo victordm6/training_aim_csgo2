@@ -1,0 +1,10 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" 	"mirrorsedge/props/gavilan_sign"
+	$model 		1
+	$surfaceprop 	metal
+	$envmap 		env_cubemap
+	$envmaptint	"[0.3 0.3 0.3]"
+
+}

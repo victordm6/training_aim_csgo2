@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	$basetexture "mirrorsedge/glass"
+	$translucent "1"
+	$surfaceprop "glass"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+}

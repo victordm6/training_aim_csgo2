@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/info/shots_failed"
+	"$translucent" 1
+}

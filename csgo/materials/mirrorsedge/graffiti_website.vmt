@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/graffiti_website"
+	"$surfaceprop" "default"
+	"$translucent" 1
+	"$decal" 1
+}

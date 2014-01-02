@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/training_aim3_cartel"
+	"$nodecal" 1
+	"$translucent" 1
+}

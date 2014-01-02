@@ -1,0 +1,11 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/door_e_96_2"
+	$model 1
+	$surfaceprop metal
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "mirrorsedge/props/door_e_96_g"
+
+}

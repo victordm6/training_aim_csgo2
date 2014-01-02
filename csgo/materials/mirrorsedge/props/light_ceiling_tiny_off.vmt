@@ -1,0 +1,9 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/light_ceiling_tiny_off"
+	$model 1
+	$surfaceprop metal
+	$envmap env_cubemap
+	$envmaptint "[0.5 0.5 0.5]"
+}

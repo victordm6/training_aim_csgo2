@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/liftbutton_up"
+	"$bumpmap" "mirrorsedge/liftbutton_bump"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$selfillum" "1"
+}

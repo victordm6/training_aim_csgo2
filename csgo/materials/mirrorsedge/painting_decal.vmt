@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/painting_decal"
+	"$decal" "1"
+	"$decalscale" "0.25"
+	"$translucent" "1"
+	"$surfaceprop" "brick"
+}

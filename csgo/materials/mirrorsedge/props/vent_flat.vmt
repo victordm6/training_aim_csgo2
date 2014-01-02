@@ -1,0 +1,14 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/vent_flat"
+	"$bumpmap" "mirrorsedge/props/vent_flat_bump"
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$phong"     "1"
+ 	"$phongexponent"   "45"
+ 	"$phongboost"   "1.7"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+	"$HalfLambert" 1
+}

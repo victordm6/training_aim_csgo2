@@ -1,0 +1,14 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/seat_blue2"
+	"$bumpmap" "mirrorsedge/props/seat_bump"
+	"$surfaceprop" "plastic"
+	"$model" 1
+
+	"$phong" "1"
+	"$phongboost"	"3"
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 0.6 1]"
+
+}

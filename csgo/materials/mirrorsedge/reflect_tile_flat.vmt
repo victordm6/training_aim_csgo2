@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "mirrorsedge/orange_floor_tile"
+	"$surfaceprop" "tile"
+	"$bumpmap" "mirrorsedge/orange_floor_tile_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.75 0.75 0.75]"
+} 

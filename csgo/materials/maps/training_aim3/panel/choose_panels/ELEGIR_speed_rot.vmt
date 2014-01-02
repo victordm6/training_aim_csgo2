@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/panel/choose_panels/ELEGIR_speed_rot"
+	"$nodecal" 1
+	"$translucent" 1
+}

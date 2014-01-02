@@ -1,0 +1,17 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/bench_wooden"
+	"$bumpmap" "mirrorsedge/props/null_bump"
+	$model 1
+	$surfaceprop wood
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.003 0.003 0.003]"
+
+	"$phong"     "1"
+ 	"$phongexponent"   "12"
+ 	"$phongboost"   "0.8"
+ 	"$phongfresnelranges"   "[.5 .8 1]"
+	"$HalfLambert" 1
+}

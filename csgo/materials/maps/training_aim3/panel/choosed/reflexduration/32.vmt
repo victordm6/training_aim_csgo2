@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/panel/choosed/reflexduration/32"
+	"$nodecal" 1
+	"$translucent" 1
+}

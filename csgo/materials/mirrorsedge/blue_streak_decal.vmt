@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$decal" 1
+	"$basetexture" "mirrorsedge/blue_streak"
+	"$surfaceprop" "default"
+	"$additive" 1
+}

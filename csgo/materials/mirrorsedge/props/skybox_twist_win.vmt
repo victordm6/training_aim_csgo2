@@ -1,0 +1,10 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/props/skybox_twist_win"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$model" 1
+	$envmaptint "[0.8 0.8 0.8]"
+	$envmapcontrast "[0.2 0.2 0.2]"
+}

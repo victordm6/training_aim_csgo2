@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/arrowbox"
+	"$surfaceprop" "concrete"
+	$detail detail\noise_detail_01
+	$detailscale 3
+	$detailblendfactor 0.5
+	$detailblendmode 0
+}

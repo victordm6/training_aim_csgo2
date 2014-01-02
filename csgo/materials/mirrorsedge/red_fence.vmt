@@ -1,0 +1,10 @@
+//VTF was originally  made by VALVE, I simply recoloured it
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "mirrorsedge/red_fence"
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"%keywords" "c17downtown,c17industrial"
+	"%compileladder" 1
+}

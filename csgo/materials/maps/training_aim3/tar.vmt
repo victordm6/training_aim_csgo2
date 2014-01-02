@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cs_havana/white"
+	"$nodecal" 1
+	"$translucent" 1
+}

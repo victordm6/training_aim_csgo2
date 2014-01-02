@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/wall_insets"
+	"$bumpmap" "mirrorsedge/wall_insets_ssbump"
+	"$ssbump" 1
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+	"$reflectivity" "[.7 .7 .7]"
+	"$envmap" "env_cubemap"
+
+	$detail detail\metal_detail_01
+	$detailscale 4.283
+	$detailblendfactor .7
+	$detailblendmode 0
+}

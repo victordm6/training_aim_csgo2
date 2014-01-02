@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "mirrorsedge/gray"
+	"$surfaceprop" "brick"
+}

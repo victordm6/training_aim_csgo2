@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/plastic_orange"
+	"$bumpmap" "mirrorsedge/plastic_bump"
+	"$surfaceprop" "brick"
+	$selfillum 1
+	$selfillumtint "[0.1 0.1 0.1]"
+	"$reflectivity" "[.8 .4 .0]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.08 0.08 0.08]"
+}

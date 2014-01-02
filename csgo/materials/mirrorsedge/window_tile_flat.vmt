@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "mirrorsedge/window_tile_flat"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "mirrorsedge/window_tile_flat_grayscale"
+	"$surfaceprop" "glass"
+}

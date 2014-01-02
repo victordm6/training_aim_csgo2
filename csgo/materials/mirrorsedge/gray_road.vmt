@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/gray_road"
+	"$bumpmap" "mirrorsedge/gray_road_bump"
+	"$surfaceprop" "concrete"
+	"$envmap" env_cubemap
+	"$normalmapalphaenvmapmask" 1
+	"$reflectivity" "[0.7 0.7 0.7]"
+	$detail detail\noise_detail_01
+	$detailscale 16
+	$detailblendfactor 0.7
+	$detailblendmode 0
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/mallclosed"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" "1"
+	"$surfaceprop" "no_decal"
+	"$decal" 1
+
+}

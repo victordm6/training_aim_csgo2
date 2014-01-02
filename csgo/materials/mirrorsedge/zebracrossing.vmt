@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/zebracrossing"
+	"$decal" "1"
+	"$translucent" "1"
+	"$surfaceprop" "brick"
+}

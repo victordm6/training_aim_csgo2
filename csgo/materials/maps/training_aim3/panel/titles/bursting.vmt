@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/panel/titles/bursting"
+	"$nodecal" 1
+	"$translucent" 1
+}

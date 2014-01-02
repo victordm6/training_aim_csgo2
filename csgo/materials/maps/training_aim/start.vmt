@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/training_aim/start"
+	"$translucent" 1
+}

@@ -1,0 +1,9 @@
+//Texture and model by HIYOUGAMI http://hiyougami.webs.com
+"VertexLitGeneric"
+{
+	"$basetexture" "mirrorsedge/roadclosed"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "0.8"
+	"$basealphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+}

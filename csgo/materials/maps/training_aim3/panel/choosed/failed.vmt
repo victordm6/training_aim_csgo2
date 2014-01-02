@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maps/training_aim3/panel/info/failed"
+	"$nodecal" 1
+	"$translucent" 1
+}
