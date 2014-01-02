@@ -21,12 +21,13 @@ Click the "Download ZIP" button to the right.
 
 Then, if you just want to play the map:
 
-Copy training_aim_csgo_a1.bsp from the bsp folder in to 
-C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\maps
+Copy the csgo folder to 
+C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive
 
 If you want to modify the map:
 
 Copy the csgo folder to
 C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive
+
 then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps
