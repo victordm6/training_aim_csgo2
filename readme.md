@@ -19,15 +19,15 @@ Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
 
 Click the "Download ZIP" button to the right.
 
-Then, if you just want to play the map:
+####Then, if you just want to play the map:
 
 Copy the csgo folder to 
-C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive"
 
-If you want to modify the map:
+####If you want to modify the map:
 
 Copy the csgo folder to
-C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive"
 
 then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
-C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps"
