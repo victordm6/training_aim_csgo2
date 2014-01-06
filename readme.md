@@ -68,4 +68,6 @@ Original map link: http://csgo.gamebanana.com/maps/168139[1]
 
 Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
 
+Workshop link: http://steamcommunity.com/sharedfiles/filedetails/?id=213240871
+
 
