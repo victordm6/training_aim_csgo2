@@ -31,21 +31,14 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.1.1 Release
 
 #####Gameplay
+* Moved start/stop buttons in to the walls, as to not accidentally be triggered
+* Fixed ladder on second level
+* Fixed some clipping issues
 
 #####Graphics
 * Changed shooting wall texture to orange grid
 * Disabled Bloom and HDR to help with brightness problem
 * Made light_environment dimmer
-
-#####Gameplay
-* Moved start/stop buttons in to the walls, as to not accidentally be triggered
-* Fixed ladder on second level
-* Fixed some clipping issues
-
-Original map link: http://csgo.gamebanana.com/maps/168139[1]
-
-Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
-
 
 ###To Download:
 
@@ -70,5 +63,9 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 * New weapons board texture
 * Possibly new rooms, etc
 * Better lighting
+
+Original map link: http://csgo.gamebanana.com/maps/168139[1]
+
+Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
 
 
