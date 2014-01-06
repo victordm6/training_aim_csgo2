@@ -1,4 +1,4 @@
-#training`_aim_`csgo2
+#training_aim_csgo2
 ##Current release: 0.1.1
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
@@ -11,35 +11,36 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.1.0
 
 #####Gameplay
--Fixed spawning in pit
--Fixed bot being hostile
--Fixed warm up not ending
--Warm up timer reduced to 5 seconds
--Fixed weapons board
--Added silenced weapons to weapons board
+* Fixed spawning in pit
+* Fixed bot being hostile
+* Fixed warm up not ending
+* Warm up timer reduced to 5 seconds
+* Fixed weapons board
+* Added silenced weapons to weapons board
+
 
 #####Graphics
--Overhauled textures to solid colors
--Changed shooting wall texture to white
--Changed roof to glass
--Fixed clipping issues
--Added sun matching `cs_office (light_environment`)
--Removed uneven indoor lighting
--Changed skybox to cityscape
+* Overhauled textures to solid colors
+* Changed shooting wall texture to white
+* Changed roof to glass
+* Fixed clipping issues
+* Added sun matching cs_office (light_environment)
+* Removed uneven indoor lighting
+* Changed skybox to cityscape
 
 ####0.1.1 Release
 
 #####Gameplay
 
 #####Graphics
--Changed shooting wall texture to orange grid
--Disabled Bloom and HDR to help with brightness problem
--Made `light_environment` dimmer
+* Changed shooting wall texture to orange grid
+* Disabled Bloom and HDR to help with brightness problem
+* Made light_environment dimmer
 
 #####Gameplay
--Moved start/stop buttons in to the walls, as to not accidentally be triggered
--Fixed ladder on second level
--Fixed some clipping issues
+* Moved start/stop buttons in to the walls, as to not accidentally be triggered
+* Fixed ladder on second level
+* Fixed some clipping issues
 
 Original map link: http://csgo.gamebanana.com/maps/168139[1]
 
@@ -53,21 +54,21 @@ Click the "Download ZIP" button to the right.
 ####Then, if you just want to play the map:
 
 Copy the csgo folder to 
-"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive"
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive"
 
 ####If you want to modify the map:
 
 Copy the csgo folder to
-`"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive"
+`"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive"
 
 Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
-"C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps"`
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"`
 
 ###Planned features
--Being able to change shooting wall texture
--Being able to change brightness
--New weapons board texture
--Possibly new rooms, etc
--Better lighting
+* Being able to change shooting wall texture
+* Being able to change brightness
+* New weapons board texture
+* Possibly new rooms, etc
+* Better lighting
 
 
