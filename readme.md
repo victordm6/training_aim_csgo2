@@ -38,7 +38,13 @@ This is a work in progress, so subscribe and please leave feedback.
 #####Graphics
 * Changed shooting wall texture to orange grid
 * Disabled Bloom and HDR to help with brightness problem
-* Made light_environment dimmer
+* Made lighting dimmer.
+
+####0.1.2 
+
+#####Gameplay 
+Warmup should be completely gone. 
+
 
 ###To Download:
 
@@ -52,10 +58,10 @@ Copy the csgo folder to
 ####If you want to modify the map:
 
 Copy the csgo folder to
-`"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive"
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter Strike Global Offensive"
 
 Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
-"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"`
+"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"
 
 ###Planned features
 * Being able to change shooting wall texture
@@ -64,7 +70,7 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 * Possibly new rooms, etc
 * Better lighting
 
-Original map link: http://csgo.gamebanana.com/maps/168139[1]
+Original map link: http://csgo.gamebanana.com/maps/168139
 
 Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
 
