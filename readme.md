@@ -6,6 +6,10 @@ There were a lot of gameplay and graphical bugs that I wanted to address.
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
 
+
+IMPORTANT MUST READ:
+TO GET THE M4A1-S and the USP-S, YOU MUST SHOOT THE RIGHT HALF OF THE M4A4 and P2000 BUTTONS. TO GET THE M4A4 and P2000, SHOOT THE LEFT SIDE OF THESE BUTTONS. A NEW WEAPONS BOARD WILL BE ADDED WITH SEPERATE ENTRIES FOR SILENCED VARIANTS.
+
 #####How to install and use:
 
 * Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click Subscribe.
