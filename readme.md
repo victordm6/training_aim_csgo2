@@ -1,14 +1,13 @@
 #training_aim_csgo2
 ##Current release: 0.1.3
 
+#####IMPORTANT MUST READ:
+TO GET THE M4A1-S and the USP-S, YOU MUST SHOOT THE RIGHT HALF OF THE M4A4 and P2000 BUTTONS. TO GET THE M4A4 and P2000, SHOOT THE LEFT SIDE OF THESE BUTTONS. A NEW WEAPONS BOARD WILL BE ADDED WITH SEPERATE ENTRIES FOR SILENCED VARIANTS.
+
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
-
-
-IMPORTANT MUST READ:
-TO GET THE M4A1-S and the USP-S, YOU MUST SHOOT THE RIGHT HALF OF THE M4A4 and P2000 BUTTONS. TO GET THE M4A4 and P2000, SHOOT THE LEFT SIDE OF THESE BUTTONS. A NEW WEAPONS BOARD WILL BE ADDED WITH SEPERATE ENTRIES FOR SILENCED VARIANTS.
 
 #####How to install and use:
 
@@ -90,6 +89,10 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 * New weapons board texture
 * Possibly new rooms, etc
 * Better lighting
+* New shooting modes
+* Control over bullet decals
+* Being able to toggle infinite ammo modes
+* More bugfixes
 
 Original map link: http://csgo.gamebanana.com/maps/168139
 
