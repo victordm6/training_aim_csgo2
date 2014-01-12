@@ -8,7 +8,7 @@ This is a work in progress, so subscribe and please leave feedback.
 
 #####How to install and use:
 
-* Go to the (http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click subscribe.
+* Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click subscribe.
 * Launch the game.
 * Click Play.
 * Click Offline with Bots in the drop-down menu.
