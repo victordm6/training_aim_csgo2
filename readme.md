@@ -53,13 +53,13 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.1.2 
 
 #####Gameplay 
-*Added "ding" sound when triggering buttons.
+* Added "ding" sound when triggering buttons.
 
 ####0.1.3
 
 #####Gameplay 
-*Warmup works properly with custom gamemode.
-*Fixed minor clipping issue.
+* Warmup works properly with custom gamemode.
+* Fixed minor clipping issue.
 
 
 
