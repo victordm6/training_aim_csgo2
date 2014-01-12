@@ -1,10 +1,20 @@
 #training_aim_csgo2
-##Current release: 0.1.1
+##Current release: 0.1.3
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
+
+How to install and use:
+
+Go to the (http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click subscribe.
+Launch the game.
+Click Play.
+Click Offline with Bots in the drop-down menu.
+Click Steam Workshop.
+Double click training_aim_csgo2. 
+
 
 ###Changelog
  
@@ -28,7 +38,7 @@ This is a work in progress, so subscribe and please leave feedback.
 * Removed uneven indoor lighting
 * Changed skybox to cityscape
 
-####0.1.1 Release
+####0.1.1
 
 #####Gameplay
 * Moved start/stop buttons in to the walls, as to not accidentally be triggered
@@ -43,12 +53,12 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.1.2 
 
 #####Gameplay 
-* Added "ding" sound when triggering buttons.
+*Added "ding" sound when triggering buttons.
 
 ####0.1.3
 
 #####Gameplay 
-* Warmup works properly with custom gamemode.
+*Warmup works properly with custom gamemode.
 *Fixed minor clipping issue.
 
 
