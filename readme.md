@@ -1,8 +1,5 @@
 #training_aim_csgo2
-##Current release: 0.1.3
-
-#####IMPORTANT MUST READ:
-TO GET THE M4A1-S and the USP-S, YOU MUST SHOOT THE RIGHT HALF OF THE M4A4 and P2000 BUTTONS. TO GET THE M4A4 and P2000, SHOOT THE LEFT SIDE OF THESE BUTTONS. A NEW WEAPONS BOARD WILL BE ADDED WITH SEPERATE ENTRIES FOR SILENCED VARIANTS.
+##Current release: 0.2.0
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
@@ -64,18 +61,16 @@ This is a work in progress, so subscribe and please leave feedback.
 * Warmup works properly with custom gamemode.
 * Fixed minor clipping issue.
 
+####0.2.0
 
+#####Gameplay 
+* Added new, cleaner weapons board featuring weapon icons and seperate entries for silenced weapons.
 
-###To Download:
+#####Graphics
+* Fixed texture z-fighting
+* Optimized various parts of the map
 
-Click the "Download ZIP" button to the right.
-
-####Then, if you just want to play the map:
-
-Copy the csgo folder to 
-"C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive"
-
-####If you want to modify the map:
+###To Download on Github (for dev usage):
 
 Copy the csgo folder to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter Strike Global Offensive"
