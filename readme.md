@@ -81,7 +81,7 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 ###Planned features
 * Being able to change shooting wall texture
 * Being able to change brightness
-* New weapons board texture
+* ~~New weapons board texture~~
 * Possibly new rooms, etc
 * Better lighting
 * New shooting modes
