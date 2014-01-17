@@ -6,7 +6,6 @@ There were a lot of gameplay and graphical bugs that I wanted to address.
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
 
-<<<<<<< HEAD
 ~~~~
 
 #####How to install and use:
