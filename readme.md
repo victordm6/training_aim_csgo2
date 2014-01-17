@@ -6,9 +6,13 @@ There were a lot of gameplay and graphical bugs that I wanted to address.
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
 
+<<<<<<< HEAD
 ~~~~
 
 #####How to install and use:
+=======
+###How to install and use:
+>>>>>>> 7ffb603f46ca57e671dfd8e35bbb2c1290e1746d
 
 * Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click Subscribe.
 * Launch the game.
@@ -98,7 +102,7 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 ###Planned features
 * Being able to change shooting wall texture
 * Being able to change brightness
-* New weapons board texture
+* ~~New weapons board texture~~
 * Possibly new rooms, etc
 * Better lighting
 * New shooting modes
