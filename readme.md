@@ -1,12 +1,12 @@
 #training_aim_csgo2
-##Current release: 0.2.0
+##Current release: 0.3.0
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
 
-~~~~
+----
 
 #####How to install and use:
 
@@ -17,7 +17,7 @@ This is a work in progress, so subscribe and please leave feedback.
 * Click Steam Workshop.
 * Double click training_aim_csgo2. 
 
-~~~~
+----
 
 ###Changelog
  
@@ -75,15 +75,15 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.3.0
 
 #####Gameplay
-* Added multiplayer support for teams of 5
-* Lengthened ladders so it is easier not to fall off (thanks 
+* Added multiplayer support for teams of 5 each
+* Lengthened ladders so it is easier not to fall off (thanks Surfing-Nymph)
 
 #####Graphics
 * Removed border around options menu
 * Retextured some areas
 * Optimized map in general
 
-~~~~
+----
 
 ###To Download on Github (for dev usage):
 
@@ -93,7 +93,7 @@ Copy the csgo folder to
 Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"
 
-~~~~
+----
 
 ###Planned features
 * Being able to change shooting wall texture
@@ -106,7 +106,7 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 * Being able to toggle infinite ammo modes
 * More bugfixes
 
-~~~~
+----
 
 ###Links
 
