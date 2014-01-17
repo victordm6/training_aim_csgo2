@@ -14,7 +14,7 @@ This is a work in progress, so subscribe and please leave feedback.
 * Launch the game.
 * Click Play.
 * Click Offline with Bots in the drop-down menu.
-* Click Steam Workshop.
+* Click Workshop.
 * Double click training_aim_csgo2. 
 
 ----
