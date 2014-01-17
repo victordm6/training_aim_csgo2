@@ -9,9 +9,6 @@ This is a work in progress, so subscribe and please leave feedback.
 ~~~~
 
 #####How to install and use:
-=======
-###How to install and use:
->>>>>>> 7ffb603f46ca57e671dfd8e35bbb2c1290e1746d
 
 * Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click Subscribe.
 * Launch the game.
