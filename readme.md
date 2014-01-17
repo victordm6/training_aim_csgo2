@@ -6,6 +6,8 @@ There were a lot of gameplay and graphical bugs that I wanted to address.
 I also ended up adding and improving a lot of features as well. 
 This is a work in progress, so subscribe and please leave feedback.
 
+~~~~
+
 #####How to install and use:
 
 * Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click Subscribe.
@@ -15,6 +17,7 @@ This is a work in progress, so subscribe and please leave feedback.
 * Click Steam Workshop.
 * Double click training_aim_csgo2. 
 
+~~~~
 
 ###Changelog
  
@@ -27,7 +30,6 @@ This is a work in progress, so subscribe and please leave feedback.
 * Warm up timer reduced to 5 seconds
 * Fixed weapons board
 * Added silenced weapons to weapons board
-
 
 #####Graphics
 * Overhauled textures to solid colors
@@ -70,6 +72,19 @@ This is a work in progress, so subscribe and please leave feedback.
 * Fixed texture z-fighting
 * Optimized various parts of the map
 
+####0.3.0
+
+#####Gameplay
+* Added multiplayer support for teams of 5
+* Lengthened ladders so it is easier not to fall off (thanks 
+
+#####Graphics
+* Removed border around options menu
+* Retextured some areas
+* Optimized map in general
+
+~~~~
+
 ###To Download on Github (for dev usage):
 
 Copy the csgo folder to
@@ -77,6 +92,8 @@ Copy the csgo folder to
 
 Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"
+
+~~~~
 
 ###Planned features
 * Being able to change shooting wall texture
@@ -89,10 +106,14 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 * Being able to toggle infinite ammo modes
 * More bugfixes
 
+~~~~
+
+###Links
+
 Original map link: http://csgo.gamebanana.com/maps/168139
 
 Youtube link: http://www.youtube.com/watch?v=LwhNklmKbVI&feature=youtu.be
 
-Workshop link: http://steamcommunity.com/sharedfiles/filedetails/?id=213240871
+
 
 
