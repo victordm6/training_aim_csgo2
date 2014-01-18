@@ -88,6 +88,7 @@ This is a work in progress, so subscribe and please leave feedback.
 #####Gameplay
 * Fixed bug where weapons board did not drop your previous weapon.
 * Fixed config.
+* Removed warmup completely. 
 
 ----
 
