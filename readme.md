@@ -86,8 +86,8 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.3.1
 
 #####Gameplay
-* Fixed bug where weapons board did not drop your previous weapon.
-* Fixed config.
+* Fixed bug where weapons board did not drop your previous weapon
+* Fixed config
 
 ----
 
