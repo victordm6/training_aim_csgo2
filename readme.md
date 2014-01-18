@@ -66,7 +66,7 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.2.0
 
 #####Gameplay 
-* Added new, cleaner weapons board featuring weapon icons and seperate entries for silenced weapons.
+* Added new, cleaner weapons board featuring weapon icons and separate entries for silenced weapons.
 
 #####Graphics
 * Fixed texture z-fighting
@@ -82,6 +82,12 @@ This is a work in progress, so subscribe and please leave feedback.
 * Removed border around options menu
 * Retextured some areas
 * Optimized map in general
+
+####0.3.1
+
+######Gameplay
+* Fixed bug where weapons board did not drop your previous weapon.
+* Fixed config.
 
 ----
 
