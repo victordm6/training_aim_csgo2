@@ -1,5 +1,5 @@
 #training_aim_csgo2
-##Current release: 0.3.2
+##Current release: 0.3.3
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
@@ -125,6 +125,7 @@ Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 ###Links
 
 [Youtube](http://www.youtube.com/watch?v=qS8DWKxMPCk&list=PLie_jw7Bdb2FOZjoKQTGWLtwnICY8Glnr&index=4"Youtube")
+
 [training_aim_csgo](http://csgo.gamebanana.com/maps/168139"Gamebanana")
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
