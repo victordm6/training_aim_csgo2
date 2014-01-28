@@ -100,6 +100,13 @@ This is a work in progress, so subscribe and please leave feedback.
 #####Gameplay
 * Increased round time to 60 minutes. 
 
+####0.3.4
+
+#####Graphics
+* Changed wall texture due to popular request. 
+* Added cross in middle of wall, to provide a clear center.
+* Removed kataS credit texture (will re-add later). 
+
 ----
 
 ###To Download on Github (for dev usage):
