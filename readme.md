@@ -1,5 +1,5 @@
 #training_aim_csgo2
-##Current release: 0.3.3
+##Current release: 0.3.4
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 

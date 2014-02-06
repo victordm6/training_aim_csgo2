@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6150"
-	"mapversion" "4492"
+	"editorbuild" "6284"
+	"mapversion" "4513"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -116,7 +116,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "4492"
+	"mapversion" "4513"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3623,7 +3623,7 @@ world
 		"id" "341291"
 		side
 		{
-			"id" "50857"
+			"id" "59851"
 			"plane" "(-264 520 256) (-264 528 256) (264 528 256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -3634,7 +3634,7 @@ world
 		}
 		side
 		{
-			"id" "50858"
+			"id" "59850"
 			"plane" "(-264 528 0) (-264 520 0) (264 520 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
@@ -3645,7 +3645,7 @@ world
 		}
 		side
 		{
-			"id" "50859"
+			"id" "59849"
 			"plane" "(-264 520 0) (-264 528 0) (-264 528 256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
@@ -3656,7 +3656,7 @@ world
 		}
 		side
 		{
-			"id" "50860"
+			"id" "59848"
 			"plane" "(264 528 0) (264 520 0) (264 520 256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
@@ -3667,7 +3667,7 @@ world
 		}
 		side
 		{
-			"id" "50861"
+			"id" "59847"
 			"plane" "(-264 528 0) (264 528 0) (264 528 256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
@@ -3678,7 +3678,7 @@ world
 		}
 		side
 		{
-			"id" "50862"
+			"id" "59846"
 			"plane" "(264 520 0) (-264 520 0) (-264 520 256)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -10907,7 +10907,6 @@ entity
 	connections
 	{
 		"OnTrigger" "relay.introTrigger01"
-		"OnStartTouch" "servercommandCommandbot_kill3-1"
 		"OnStartTouch" "servercommandCommandsv_cheats 1; bot_zombie 1; mat_disable_bloom 1; mat_dynamic_tonemapping 0; mat_hdr_enabled 0; sv_infinite_ammo 1; r_drawdecals 00-1"
 		"OnStartTouch" "servercommandCommandbot_kick3.1-1"
 	}
@@ -16405,7 +16404,7 @@ entity
 	"angles" "0 345 0"
 	"pitch" "-55"
 	"SunSpreadAngle" "0"
-	"origin" "-232 -240 344"
+	"origin" "-232 -190 353"
 	editor
 	{
 		"color" "220 30 220"
@@ -96303,11 +96302,6 @@ entity
 	"Case01" "bykatas"
 	"Case02" "off"
 	"targetname" "cartel.case"
-	connections
-	{
-		"OnCase01" "bykatasAlpha2550-1"
-		"OnCase02" "bykatasAlpha00-1"
-	}
 	"origin" "0 392 336"
 	editor
 	{
@@ -96948,13 +96942,15 @@ entity
 {
 	"id" "75327"
 	"classname" "func_brush"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
+	"disableflashlight" "1"
+	"disablereceiveshadows" "1"
+	"disableshadowdepth" "1"
+	"disableshadows" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"InputFilter" "0"
 	"invert_exclusion" "0"
-	"origin" "0 511.5 128"
+	"origin" "0 512.5 128.5"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
@@ -96971,10 +96967,10 @@ entity
 		side
 		{
 			"id" "35274"
-			"plane" "(-256 511 256) (-256 512 256) (256 512 256)"
+			"plane" "(-30 512 158) (-30 513 158) (30 513 158)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 60] 0.25"
+			"uaxis" "[1 0 0 0] 0.0585938"
+			"vaxis" "[0 -1 0 0] 0.000976563"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -96982,10 +96978,10 @@ entity
 		side
 		{
 			"id" "35273"
-			"plane" "(-256 512 0) (-256 511 0) (256 511 0)"
+			"plane" "(-30 513 99) (-30 512 99) (30 512 99)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 60] 0.25"
+			"uaxis" "[1 0 0 0] 0.0585938"
+			"vaxis" "[0 -1 0 0] 0.000976563"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -96993,10 +96989,10 @@ entity
 		side
 		{
 			"id" "35272"
-			"plane" "(-256 511 0) (-256 512 0) (-256 512 256)"
+			"plane" "(-30 512 99) (-30 513 99) (-30 513 158)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -60] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"uaxis" "[0 1 0 0] 0.000976563"
+			"vaxis" "[0 0 -1 54.2373] 0.0576172"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -97004,10 +97000,10 @@ entity
 		side
 		{
 			"id" "35271"
-			"plane" "(256 512 0) (256 511 0) (256 511 256)"
+			"plane" "(30 513 99) (30 512 99) (30 512 158)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -60] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"uaxis" "[0 1 0 0] 0.000976563"
+			"vaxis" "[0 0 -1 54.2373] 0.0576172"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -97015,10 +97011,10 @@ entity
 		side
 		{
 			"id" "35270"
-			"plane" "(-256 512 0) (256 512 0) (256 512 256)"
+			"plane" "(-30 513 99) (30 513 99) (30 513 158)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"uaxis" "[1 0 0 0] 0.06"
+			"vaxis" "[0 0 -1 54] 0.06"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -97026,10 +97022,10 @@ entity
 		side
 		{
 			"id" "35269"
-			"plane" "(256 511 0) (-256 511 0) (-256 511 256)"
-			"material" "MAPS/TRAINING_AIM3/TRAINING_AIM3_CARTEL"
-			"uaxis" "[1 0 0 512] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"plane" "(30 512 99) (-30 512 99) (-30 512 158)"
+			"material" "DECALS/HELIPAD"
+			"uaxis" "[1 0 0 512] 0.0585938"
+			"vaxis" "[0 0 -1 694.237] 0.0576172"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -97963,7 +97959,7 @@ entity
 		"id" "200118"
 		side
 		{
-			"id" "36486"
+			"id" "59857"
 			"plane" "(-128 511 160) (-128 512 160) (128 512 160)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -32] 0.25"
@@ -97974,7 +97970,7 @@ entity
 		}
 		side
 		{
-			"id" "36485"
+			"id" "59856"
 			"plane" "(-128 512 96) (-128 511 96) (128 511 96)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 32] 0.25"
@@ -97985,7 +97981,7 @@ entity
 		}
 		side
 		{
-			"id" "36484"
+			"id" "59855"
 			"plane" "(-128 511 96) (-128 512 96) (-128 512 160)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
@@ -97996,7 +97992,7 @@ entity
 		}
 		side
 		{
-			"id" "36483"
+			"id" "59854"
 			"plane" "(128 512 96) (128 511 96) (128 511 160)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
@@ -98007,7 +98003,7 @@ entity
 		}
 		side
 		{
-			"id" "36482"
+			"id" "59853"
 			"plane" "(-128 512 96) (128 512 96) (128 512 160)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 32] 0.25"
@@ -98018,7 +98014,7 @@ entity
 		}
 		side
 		{
-			"id" "36481"
+			"id" "59852"
 			"plane" "(128 511 96) (-128 511 96) (-128 511 160)"
 			"material" "MAPS/TRAINING_AIM3/PANEL/CHOOSED/FAILED"
 			"uaxis" "[1 0 0 128] 1"
@@ -114494,9 +114490,9 @@ entity
 		"id" "12"
 		side
 		{
-			"id" "50856"
-			"plane" "(-256 520 256) (256 520 256) (256 512 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"id" "59863"
+			"plane" "(-256 512 256) (-256 520 256) (256 520 256)"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -114505,9 +114501,9 @@ entity
 		}
 		side
 		{
-			"id" "50855"
-			"plane" "(-256 512 0) (256 512 0) (256 520 0)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"id" "59862"
+			"plane" "(-256 520 0) (-256 512 0) (256 512 0)"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -114516,9 +114512,9 @@ entity
 		}
 		side
 		{
-			"id" "50854"
-			"plane" "(-256 520 256) (-256 512 256) (-256 512 0)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"id" "59861"
+			"plane" "(-256 512 0) (-256 520 0) (-256 520 256)"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114527,9 +114523,9 @@ entity
 		}
 		side
 		{
-			"id" "50853"
+			"id" "59860"
 			"plane" "(256 520 0) (256 512 0) (256 512 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114538,9 +114534,9 @@ entity
 		}
 		side
 		{
-			"id" "50852"
-			"plane" "(256 520 256) (-256 520 256) (-256 520 0)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"id" "59859"
+			"plane" "(-256 520 0) (256 520 0) (256 520 256)"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -114549,9 +114545,9 @@ entity
 		}
 		side
 		{
-			"id" "50851"
+			"id" "59858"
 			"plane" "(256 512 0) (-256 512 0) (-256 512 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREWALL01C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -120632,11 +120628,6 @@ entity
 	"id" "365562"
 	"classname" "logic_branch"
 	"targetname" "cartel.branch.ang"
-	connections
-	{
-		"OnTrue" "bykatasAlpha00-1"
-		"OnFalse" "bykatasAlpha2550-1"
-	}
 	"origin" "0 392 352"
 	editor
 	{
