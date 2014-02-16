@@ -103,9 +103,19 @@ This is a work in progress, so subscribe and please leave feedback.
 ####0.3.4
 
 #####Graphics
-* Changed wall texture due to popular request. 
+* Changed shooting wall texture due to popular request. 
 * Added cross in middle of wall, to provide a clear center.
 * Removed kataS credit texture (will re-add later). 
+
+####0.3.5
+
+######Gameplay
+* Added MP7 to shooting board.
+
+####0.3.6
+
+######Gameplay
+* Added CZ75 Auto to shooting board. 
 
 ----
 
