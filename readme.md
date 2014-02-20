@@ -1,5 +1,5 @@
 #training_aim_csgo2
-##Current release: 0.3.4
+##Current release: 0.3.6
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
@@ -8,7 +8,7 @@ This is a work in progress, so subscribe and please leave feedback.
 
 ----
 
-#####How to install and use:
+###How to install and use:
 
 * Go to the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=213240871"Steam Workshop") link and click Subscribe.
 * Launch the game.
@@ -109,12 +109,12 @@ This is a work in progress, so subscribe and please leave feedback.
 
 ####0.3.5
 
-######Gameplay
+#####Gameplay
 * Added MP7 to shooting board.
 
 ####0.3.6
 
-######Gameplay
+#####Gameplay
 * Added CZ75 Auto to shooting board. 
 
 ----
