@@ -1,9 +1,0 @@
-//Texture and model by HIYOUGAMI http://hiyougami.webs.com
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/props/table_lunch"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[0.25 0.25 0.25]"
-	"$surfaceprop" "metal"
-	"$model" 1
-}

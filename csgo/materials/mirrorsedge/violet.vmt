@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/violet"
-	"$surfaceprop" "brick"
-	"$reflectivity" "[.75 .5 1]"
-}

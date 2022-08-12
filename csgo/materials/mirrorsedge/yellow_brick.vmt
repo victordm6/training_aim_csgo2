@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/yellow"
-	"$bumpmap" "mirrorsedge/brick_bump2"
-	"$normalmapalphaenvmapmask" 1
-	"$surfaceprop" "brick"
-	"$reflectivity" "[1 1 0]"
-	"$envmap" "env_cubemap"
-}

@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/red"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.1 .1 .1]"
-	"$surfaceprop" "plastic"
-	"$reflectivity" "[1 0.1 0.1]"
-}

@@ -1,9 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "mirrorsedge/white"
-	"$bumpmap" "mirrorsedge/smalltile_bump"
-	"$surfaceprop" "tile"
-
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[0.07 0.07 0.07]"
-}

@@ -1,8 +1,0 @@
-"lightmappedgeneric"
-{
-	"$basetexture" "mirrorsedge/window_stripe"
-	"$envmap" "env_cubemap"
-	"$bumpmap" "mirrorsedge/window_stripe_bump"
-	"$normalmapalphaenvmapmask" "1"
-	"$surfaceprop" "glass"
-}

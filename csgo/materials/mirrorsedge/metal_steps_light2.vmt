@@ -1,6 +1,0 @@
- "LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/metal_steps_light2"
-	"$decal" 1
-	"$translucent" 1
-}

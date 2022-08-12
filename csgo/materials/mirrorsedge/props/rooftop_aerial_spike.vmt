@@ -1,9 +1,0 @@
-//Texture and model by HIYOUGAMI http://hiyougami.webs.com
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/props/rooftop_aerial_spike"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" "1"
-	"$surfaceprop" "metal"
-	"$model" 1
-}

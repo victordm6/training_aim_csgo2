@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/blue_stripelights"
-	"$bumpmap" "mirrorsedge/stripelights_bump"
-	"$surfaceprop" "metal"
-	"$selfillum" 1
-}

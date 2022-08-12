@@ -1,7 +1,0 @@
-//Texture and model by HIYOUGAMI http://hiyougami.webs.com
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/props/solarpanel_prop"
-	"$surfaceprop" "metal"
-	"$model" 1
-}

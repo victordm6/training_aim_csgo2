@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/grass_unsaturated"
-	"$bumpmap" "mirrorsedge/grass_unsaturated_normal"
-	"$surfaceprop" "grass"
-}

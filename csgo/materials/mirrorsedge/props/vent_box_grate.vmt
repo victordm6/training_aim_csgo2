@@ -1,8 +1,0 @@
-//Texture and model by HIYOUGAMI http://hiyougami.webs.com
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/props/vent_box_grate"
-	"$translucent" 1
-	"$surfaceprop" "metal"
-	"$model" 1
-}

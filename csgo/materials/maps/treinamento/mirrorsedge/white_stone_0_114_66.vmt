@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MIRRORSEDGE/WHITE_STONE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/training_aim_csgo/c0_114_66"
+	}
+}

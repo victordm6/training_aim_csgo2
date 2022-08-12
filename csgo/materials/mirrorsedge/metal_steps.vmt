@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/metal_steps"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[1 1 1]"
-	"$translucent" "1"
-	"$surfaceprop" "metal"
-	"$reflectivity" "[.8 .8 .8]"
-}

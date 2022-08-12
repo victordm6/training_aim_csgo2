@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/red"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "mirrorsedge/shinycolor_grayscale"
-	"$surfaceprop" "metal"
-	"$reflectivity" "[1 0.1 0.1]"
-}

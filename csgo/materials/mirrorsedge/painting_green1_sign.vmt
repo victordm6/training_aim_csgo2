@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/painting_green1_sign"
-	"$bumpmap" "mirrorsedge/painting_green1_sign"
-	"$surfaceprop" "metal"
-
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[0.5 0.5 0.5]"
-}

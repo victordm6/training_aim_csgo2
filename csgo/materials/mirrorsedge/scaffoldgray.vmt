@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "mirrorsedge/scaffoldgray"
-	"$bumpmap" "mirrorsedge/scaffoldgray_bump"
-	"$surfaceprop" "metal"
-}

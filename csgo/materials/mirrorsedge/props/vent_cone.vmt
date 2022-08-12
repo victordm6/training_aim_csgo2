@@ -1,9 +1,0 @@
-//Texture and model by HIYOUGAMI http://hiyougami.webs.com
-"VertexLitGeneric"
-{
-	"$basetexture" "mirrorsedge/props/vent_cone"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "mirrorsedge/props/vent_cone_spec"
-	"$surfaceprop" "metal"
-	"$model" 1
-}
